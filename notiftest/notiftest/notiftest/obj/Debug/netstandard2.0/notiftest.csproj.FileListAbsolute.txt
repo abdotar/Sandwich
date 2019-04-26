@@ -1,0 +1,12 @@
+D:\AppsXamarine\notiftest\notiftest\notiftest\bin\Debug\netstandard2.0\notiftest.deps.json
+D:\AppsXamarine\notiftest\notiftest\notiftest\bin\Debug\netstandard2.0\notiftest.dll
+D:\AppsXamarine\notiftest\notiftest\notiftest\bin\Debug\netstandard2.0\notiftest.pdb
+D:\AppsXamarine\notiftest\notiftest\notiftest\obj\Debug\netstandard2.0\notiftest.csprojAssemblyReference.cache
+D:\AppsXamarine\notiftest\notiftest\notiftest\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AppsXamarine\notiftest\notiftest\notiftest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AppsXamarine\notiftest\notiftest\notiftest\obj\Debug\netstandard2.0\notiftest.csproj.CoreCompileInputs.cache
+D:\AppsXamarine\notiftest\notiftest\notiftest\obj\Debug\netstandard2.0\notiftest.AssemblyInfoInputs.cache
+D:\AppsXamarine\notiftest\notiftest\notiftest\obj\Debug\netstandard2.0\notiftest.AssemblyInfo.cs
+D:\AppsXamarine\notiftest\notiftest\notiftest\obj\Debug\netstandard2.0\notiftest.dll
+D:\AppsXamarine\notiftest\notiftest\notiftest\obj\Debug\netstandard2.0\notiftest.pdb
+D:\AppsXamarine\notiftest\notiftest\notiftest\obj\Debug\netstandard2.0\XamlC.stamp

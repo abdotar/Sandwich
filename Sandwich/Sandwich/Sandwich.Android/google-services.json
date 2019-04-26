@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "414024422147",
+    "firebase_url": "https://sandwich-10aaf.firebaseio.com",
+    "project_id": "sandwich-10aaf",
+    "storage_bucket": "sandwich-10aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414024422147:android:6f7890de47604278",
+        "android_client_info": {
+          "package_name": "com.Azot_Dev.Sandwich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414024422147-leeaerdppje8vfr2rkpiciiftk7sm4qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1GQxarkZlbLcRdlFfIqaU0cuKs9VEs5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1083359645485",
+    "firebase_url": "https://nottest-f6892.firebaseio.com",
+    "project_id": "nottest-f6892",
+    "storage_bucket": "nottest-f6892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083359645485:android:eb086408780e978a",
+        "android_client_info": {
+          "package_name": "com.companyname.notiftest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083359645485-t20qrs9ndag1dgu6s10j3m9ppnceseg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY7anJdWohSoT98L1P7CH3Sb4JW-sKUYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

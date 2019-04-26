@@ -1,0 +1,67 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\about.png" />
+    <None Remove="images\burgericon.png" />
+    <None Remove="images\complexicon.png" />
+    <None Remove="images\frylogo.png" />
+    <None Remove="images\iconAkcii.png" />
+    <None Remove="images\logo1.png" />
+    <None Remove="images\logo2.png" />
+    <None Remove="images\menuIcon.png" />
+    <None Remove="images\rollicon.png" />
+    <None Remove="images\Shawerma.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="images\about.png" />
+    <EmbeddedResource Include="images\burgericon.png" />
+    <EmbeddedResource Include="images\complexicon.png" />
+    <EmbeddedResource Include="images\frylogo.png" />
+    <EmbeddedResource Include="images\iconAkcii.png" />
+    <EmbeddedResource Include="images\logo1.png" />
+    <EmbeddedResource Include="images\logo2.png" />
+    <EmbeddedResource Include="images\menuIcon.png" />
+    <EmbeddedResource Include="images\rollicon.png" />
+    <EmbeddedResource Include="images\Shawerma.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AppCenter.Push" Version="1.12.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Plugin.Permissions" Version="3.0.0.12" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.0.0" />
+    <PackageReference Include="Xamarin.Forms" Version="3.3.0.967583" />
+    <PackageReference Include="Xamarin.Forms.Maps" Version="3.3.0.967583" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="About.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Meals.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

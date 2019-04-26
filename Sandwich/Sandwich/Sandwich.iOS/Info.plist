@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>CFBundleDisplayName</key>
+	<string>Sandwich</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.companyname.Sandwich</string>
+	<key>CFBundleVersion</key>
+	<string>1.05</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>CFBundleName</key>
+	<string>Sandwich</string>
+	<key>XSAppIconAssets</key>
+	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Приложению Sandwich необходим доступ к геоданым для использования карты</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Приложению Sandwich необходим доступ к геоданым для использования карты</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Приложению Sandwich необходим доступ к геоданым для использования карты</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Приложение Sandwich Запрашивает доступ к календарю</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Приложение Sandwich Запрашивает доступ к контактам</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Приложение Sandwich Запрашивает доступ к микрофону</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Приложение Sandwich Запрашивает доступ к музыке</string>
+	<key>NSSiriUsageDescription</key>
+	<string>Приложение Sandwich Запрашивает доступ к Siri</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>skype</string>
+		<string>yandexnavi</string>
+	</array>
+  <key>MinimumOSVersion</key>
+  <string>12.1</string>
+<key>CFBundleLocalizations</key>
+<array>
+    <string>ru</string>
+</array>
+</dict>
+</plist>

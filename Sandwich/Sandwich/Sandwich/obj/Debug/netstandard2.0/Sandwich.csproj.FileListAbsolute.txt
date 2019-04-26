@@ -1,0 +1,16 @@
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\bin\Debug\netstandard2.0\Sandwich.deps.json
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\bin\Debug\netstandard2.0\Sandwich.dll
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\Sandwich.csprojAssemblyReference.cache
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\Sandwich.csproj.CoreCompileInputs.cache
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\Sandwich.AssemblyInfoInputs.cache
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\Sandwich.AssemblyInfo.cs
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\About.xaml.g.cs
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\Meals.xaml.g.cs
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\bin\Debug\netstandard2.0\Sandwich.pdb
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\Sandwich.dll
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\Sandwich.pdb
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\Sandwich.Properties.Resources.resources
+D:\AppsXamarine\Sandwich\Sandwich\Sandwich\obj\Debug\netstandard2.0\Sandwich.csproj.GenerateResource.cache

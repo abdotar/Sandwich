@@ -1,0 +1,2 @@
+android.app.Application
+com.Azot_Dev.Sandwich

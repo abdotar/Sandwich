@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Sandwich.Meals"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout x:Name="content">
+
+            <StackLayout x:Name="top" Padding="10">
+            </StackLayout>
+
+            <StackLayout x:Name="center" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                <ScrollView x:Name="menuscroll">
+                    <StackLayout x:Name="menuholder" IsVisible="True">
+
+
+
+
+                    </StackLayout>
+                </ScrollView>
+            </StackLayout>
+
+            <StackLayout x:Name="buttom">
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
